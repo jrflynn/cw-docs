@@ -14,7 +14,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 * Windows 7 / 8 / 10 either 32-bit or 64-bit
 * A Windows-compatible printer with the drivers installed
-* Latest version of PushPrinter that can be downloaded [here](https://pushprinter.net)
+* Latest version of VP Order Print that can be downloaded [here](https://printer-setup.order.vestipos.com)
 
 In some rare instances, when the above does not work, you may require;
 
@@ -73,8 +73,6 @@ Take note of the paper sizes available as you will likely need to try a few to g
 4. Copy and paste the API key for the printer you created 2 steps ago
 5. Set the number of copies to print and select your printer
 6. Press the start button and make sure it says connected at the bottom
-
-![Image 1.1 - &apos;Automatically start PushPrinter&apos; button](../.gitbook/assets/automatically-start-pushprinter.png)
 
 ![Image 1.2 - &apos;Create Printer&apos;](../.gitbook/assets/create-printer-pushprinter.png)
 
