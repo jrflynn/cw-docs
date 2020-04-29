@@ -36,11 +36,11 @@ Once this is done, you can use the credit card number "4242 4242 4242 4242" with
 
 ## Validating Your Stripe Account
 
-To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Please, ensure you have completed all their required validations.
+To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Pleae, ensure you have completed all their required validations.
 
 ## Stripe Fee's
 
-We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your VestiPOS Order account to process charges on your behalf with the money going straight to your account.
+We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your CloudWaitress account to process charges on your behalf with the money going straight to your account.
 
 As such it is important you are aware of Stripe's payment processing fees. You can read more here [https://stripe.com/pricing](https://stripe.com/pricing). Please also take the time to read their FAQ and support to clear up any issues you may have.
 
